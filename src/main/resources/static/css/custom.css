@@ -4,4 +4,6 @@ body{
 .product{
     background-color: lightgrey;
     min-height: 200px;
+    text-align: center;
+    text-decoration: none;
 }
